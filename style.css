@@ -1,0 +1,109 @@
+@font-face {
+    font-family: "Fira Code";
+    src: url("FiraCode-Variable.ttf");
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: "Fira Code", sans-serif;
+    color: white;
+}
+
+#main-text {
+    align-self: center;
+}
+
+@keyframes gradient-animate {
+    50% {
+        background: #190A05;
+        box-shadow: 0 -200px 100px -100px #870000 inset;
+    }
+}
+
+.main {
+    height: inherit;
+    background: #870000;
+    box-shadow: 0 -600px 100px -120px #190A05 inset;
+    animation: gradient-animate 10s infinite alternate ease-in-out;
+    display: flex;
+    flex-direction: column;
+}
+
+.code-info {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    align-self: center;
+}
+
+.code-info-text {
+    margin-top: 10px;
+}
+
+.contacts {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+}
+
+.contacts img {
+    height: 150px;
+    width: 150px;
+    margin-right: 50px;
+}
+
+.contacts img:hover {
+    height: 165px;
+    width: 165px;
+    transition: 1s;
+}
+
+/* computer */
+@media (min-width: 1001px) {
+    #main-text {
+        margin: 2% 0 0 0;
+        font-size: 66px;
+    }
+
+    .code-info-text {
+        font-size: 28px;
+    }
+
+    .contacts {
+        margin-top: 5%;
+    }
+}
+
+/* mobile phone */
+@media (max-width: 1000px) {
+    .main {
+        box-shadow: 0 -1200px 100px -120px #190A05 inset;
+    }
+
+    #main-text {
+        margin: 7% 0 8% 0;
+        font-size: 90px;
+    }
+
+    .code-info-text {
+        font-size: 30px;
+    }
+
+    .contacts {
+        margin-top: 30%;
+    }
+
+    .contacts img {
+        height: 350px;
+        width: 350px;
+        margin-top: 50px;
+    }
+
+    .contacts img:hover {
+        height: 365px;
+        width: 365px;
+    }
+}
