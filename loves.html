@@ -53,7 +53,7 @@
     const name = document.querySelector("#name");
     const n = new URLSearchParams(window.location.search).get("n");
     if(n != null)
-        name.innerText = n;
+        name.innerText = decodeURIComponent(n).replace(/\+/g, " ");
 </script>
 
 <style>
