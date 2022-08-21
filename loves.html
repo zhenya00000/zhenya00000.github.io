@@ -37,6 +37,14 @@
             font-size: 6px;
             animation: name-animate 25s infinite alternate ease-in-out;
         }
+
+        a {
+            position: absolute;
+            z-index: 1;
+            bottom: 10px;
+            text-decoration: none;
+            font-family: Pixel, sans-serif;
+        }
     </style>
 
     <script>
@@ -55,6 +63,8 @@
     if(n != null)
         name.innerText = decodeURIComponent(n).replace(/\+/g, " ");
 </script>
+
+<a href="/create">создать ссылку</a>
 
 <style>
     css-doodle {
@@ -98,8 +108,7 @@
             opacity: 1;
         }
         95% {
-            transform:
-                    translateZ(35vmin) rotateZ(@var(--deg));
+            transform: translateZ(35vmin) rotateZ(@var(--deg));
         }
     }
     )
