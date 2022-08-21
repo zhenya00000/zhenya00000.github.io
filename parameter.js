@@ -6,6 +6,6 @@ const r = url.get("r");
 const n = url.get("n");
 
 if(r != null)
-    window.open(r, "_blank");
+    window.location.replace(r);
 if(n != null)
-    window.open(`/loves?n=${n}`, "_blank");
+    window.location.replace(`/loves?n=${n}`);
