@@ -61,6 +61,16 @@ html, body {
     transition: 1s;
 }
 
+#like-link {
+    text-decoration: none;
+}
+
+#like-link:hover {
+    color: green;
+    transition: 300ms;
+    font-weight: bold;
+}
+
 /* computer */
 @media (min-width: 1001px) {
     #main-text {
