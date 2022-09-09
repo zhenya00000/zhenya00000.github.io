@@ -61,14 +61,37 @@ html, body {
     transition: 1s;
 }
 
-#like-link {
+.link {
     text-decoration: none;
+}
+
+.link:visited {
+    color: blue;
+}
+
+.link:hover {
+    transition: 300ms;
+    font-weight: bold;
 }
 
 #like-link:hover {
     color: green;
-    transition: 300ms;
-    font-weight: bold;
+}
+
+#name-link:hover {
+    color: deeppink;
+}
+
+#js-link:hover {
+    color: gold;
+}
+
+#authors-link:hover {
+    color: aqua;
+}
+
+#system-link:hover {
+    color: khaki;
 }
 
 /* computer */
