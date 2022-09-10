@@ -76,7 +76,10 @@
         navigator.clipboard.writeText(`${window.location.origin}/loves?n=${encodeURIComponent(document.querySelector("#name").value)}`)
         .then(() => {
             let d = dialog("Скопировано", "Ссылка была скопирована в буфер обмена");
-            setTimeout(() => document.querySelector("body").removeChild(d), 5000);
+            setTimeout(() => {
+                document.querySelector("body").removeChild(d);
+                setTimeout(() => window.location.replace(`/loves?n=${encodeURIComponent(document.querySelector("#name").value)}`), 1500);
+            }, 5000);
         }, () => dialog("Неудача :(", `Не удалось скопировать ссылку: ${window.location.origin}/loves?n=${encodeURIComponent(document.querySelector("#name").value)}`));
     });
 
