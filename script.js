@@ -1,1 +1,80 @@
-const _0xd5202d=_0x17f6;function _0x17f6(_0x1a7def,_0x4704da){const _0x50b79b=_0x50b7();return _0x17f6=function(_0x17f6cb,_0x5bd9be){_0x17f6cb=_0x17f6cb-0x94;let _0x4865dd=_0x50b79b[_0x17f6cb];return _0x4865dd;},_0x17f6(_0x1a7def,_0x4704da);}function _0x50b7(){const _0x1e33e3=['style','length','https://discordapp.com/users/953758837687586896','class','#header','243928GxTBqZ','header','location','32xOtPWl','print(\x27Hello,\x20my\x20name\x20is\x20Женя\x27)','createElement','Welcome','#main-text','<a>W</a><a>e</a><a>l</a><a>c</a><a>o</a><a>m</a><a>e</a>','append','128786wnOPAn','150iDuiBg','has','replace','79162BIhlEB','innerHTML','.contacts','#0000ff','#008000','https://www.linkedin.com/in/zhenya-mateyuk-867125247','code-info-text','#42aaff','https://vk.com/id145441435','217280oDjtFE',';\x20transition:\x20300ms;\x20}','ready','129462MQLlVy','3826860rrnlIA','1778084KbnGGB','cout\x20&lt;&lt;\x20\x22Be\x20sure\x20to\x20visit\x20the\x20<a\x20href=\x22/links\x22\x20class=\x22link\x22\x20id=\x22authors-link\x22>links</a>\x20below!\x22\x20&lt;&lt;\x20endl','#8b00ff','onfinish','search','querySelector','#ffff00','getElementsByTagName','System.out.println(\x22I\x20hope\x20you\x20like\x20it\x20here!\x22)','#ffa500','https://t.me/writenowme','opacity','Hello\x20World','99XpWUWY','9TaBlYV','setAttribute'];_0x50b7=function(){return _0x1e33e3;};return _0x50b7();}(function(_0x504b7,_0x23516c){const _0x16a44b=_0x17f6,_0x4f7d80=_0x504b7();while(!![]){try{const _0x5a256d=-parseInt(_0x16a44b(0xb5))/0x1*(-parseInt(_0x16a44b(0x99))/0x2)+parseInt(_0x16a44b(0xa5))/0x3*(parseInt(_0x16a44b(0xbf))/0x4)+-parseInt(_0x16a44b(0xa2))/0x5+parseInt(_0x16a44b(0x96))/0x6*(parseInt(_0x16a44b(0x95))/0x7)+parseInt(_0x16a44b(0xbc))/0x8*(-parseInt(_0x16a44b(0xb4))/0x9)+-parseInt(_0x16a44b(0xa6))/0xa+-parseInt(_0x16a44b(0xa7))/0xb;if(_0x5a256d===_0x23516c)break;else _0x4f7d80['push'](_0x4f7d80['shift']());}catch(_0x3cfe27){_0x4f7d80['push'](_0x4f7d80['shift']());}}}(_0x50b7,0x3a290),$(document)[_0xd5202d(0xa4)](()=>{const _0x4da403=_0xd5202d;let _0x2c3a1b=$(_0x4da403(0xc3)),_0x535cff=[_0x4da403(0xb3),_0x4da403(0xc2)],_0x4f4927=-0x1;(function _0x49fe7(){const _0x68c352=_0x4da403;_0x4f4927=(_0x4f4927+0x1)%_0x535cff[_0x68c352(0xb8)],bubbleText({'element':_0x2c3a1b,'newText':_0x535cff[_0x4f4927],'letterSpeed':0x46,'callback':function(){if(_0x4f4927!==0x1)setTimeout(_0x49fe7,0xbb8);if(_0x4f4927===0x1)setTimeout(()=>{const _0x5386ed=_0x17f6;let _0x400cc5=['#ff0000',_0x5386ed(0xb0),_0x5386ed(0xad),_0x5386ed(0x9d),_0x5386ed(0xa0),_0x5386ed(0x9c),_0x5386ed(0xa9)],_0x5a1d5b=document[_0x5386ed(0xac)](_0x5386ed(0xc3));_0x5a1d5b[_0x5386ed(0x9a)]=_0x5386ed(0xc4);let _0x4cc43a=_0x5a1d5b[_0x5386ed(0xae)]('a');for(let _0x28c2f8=0x0;_0x28c2f8<_0x4cc43a[_0x5386ed(0xb8)];_0x28c2f8++){let _0x25e5f2=document[_0x5386ed(0xc1)](_0x5386ed(0xb7));_0x4cc43a[_0x28c2f8]['id']=_0x5386ed(0xbd)+_0x28c2f8,_0x25e5f2[_0x5386ed(0x9a)]=_0x5386ed(0xbb)+_0x28c2f8+':hover\x20{\x20color:\x20'+_0x400cc5[_0x28c2f8]+_0x5386ed(0xa3),_0x4cc43a[_0x28c2f8][_0x5386ed(0x94)](_0x25e5f2);}},0xdac);}});}());let _0x49b07a=$('.code-info'),_0x36ae29=[_0x4da403(0xc0),'console.log(\x27Im\x20glad\x20to\x20see\x20you\x20here!\x27)',_0x4da403(0xaf),'cout\x20<<\x20\x22Be\x20sure\x20to\x20visit\x20the\x20links\x20below!\x22\x20<<\x20endl'],_0xba5d87=document[_0x4da403(0xac)](_0x4da403(0x9b));setTimeout(()=>{let _0x48f01f=-0x1;(function _0xcd098f(){const _0x276041=_0x17f6;_0x48f01f++;let _0x27481e=document[_0x276041(0xc1)]('a');_0x27481e[_0x276041(0xb6)](_0x276041(0xba),_0x276041(0x9f)),_0x49b07a[_0x276041(0x94)](_0x27481e),bubbleText({'element':_0x27481e,'newText':_0x36ae29[_0x48f01f],'speed':0x5dc,'callback':()=>{const _0x278d67=_0x276041;if(_0x48f01f<_0x36ae29['length']-0x1){if(_0x48f01f===0x0)_0x27481e[_0x278d67(0x9a)]='print(\x27Hello,\x20my\x20name\x20is\x20<a\x20href=\x27https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9\x27\x20class=\x27link\x27\x20id=\x27name-link\x27>Женя</a>\x27)';else{if(_0x48f01f===0x1)_0x27481e[_0x278d67(0x9a)]='console.<a\x20href=\x27https://developer.mozilla.org/ru/docs/Web/API/Console/log\x27\x20class=\x27link\x27\x20id=\x27js-link\x27>log</a>(\x27Im\x20glad\x20to\x20see\x20you\x20here!\x27)';else{if(_0x48f01f===0x2)_0x27481e['innerHTML']='<a\x20href=\x22https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/System.html\x22\x20class=\x22link\x22\x20id=\x22system-link\x22>System</a>.out.println(\x22I\x20hope\x20you\x20<a\x20href=\x22/create\x22\x20class=\x22link\x22\x20id=\x22like-link\x22>like</a>\x20it\x20here!\x22)';}}_0xcd098f();}else _0x27481e[_0x278d67(0x9a)]=_0x278d67(0xa8),_0xba5d87['animate']({'opacity':0x1},0x258)[_0x278d67(0xaa)]=()=>_0xba5d87[_0x278d67(0xb7)][_0x278d67(0xb2)]='1',setTimeout(()=>{const _0x33a268=_0x278d67;let _0x528282=new URLSearchParams(window[_0x33a268(0xbe)][_0x33a268(0xab)]);if(_0x528282[_0x33a268(0x97)]('vk'))window[_0x33a268(0xbe)]['replace'](_0x33a268(0xa1));else{if(_0x528282[_0x33a268(0x97)]('tg'))window[_0x33a268(0xbe)][_0x33a268(0x98)](_0x33a268(0xb1));else{if(_0x528282[_0x33a268(0x97)]('in'))window[_0x33a268(0xbe)]['replace'](_0x33a268(0x9e));else _0x528282[_0x33a268(0x97)]('ds')&&window[_0x33a268(0xbe)]['replace'](_0x33a268(0xb9));}}},0x7d0);}});}());},0xbb8);}));
+$(document).ready(() => {
+    let mainText = $('#main-text');
+    let phrases = ["Hello World", "Welcome"];
+    let index = -1;
+    (function loopAnimation() {
+        index = (index + 1) % phrases.length;
+        bubbleText({
+            element: mainText,
+            newText: phrases[index],
+            letterSpeed: 70,
+            callback: function() {
+                if(index !== 1)
+                    setTimeout(loopAnimation, 3000);
+                if(index === 1)
+                    setTimeout(() => {
+                        let colors = ["#ff0000", "#ffa500", "#ffff00", "#008000", "#42aaff", "#0000ff", "#8b00ff"];
+                        let header = document.querySelector("#main-text");
+                        header.innerHTML = "<a>W</a><a>e</a><a>l</a><a>c</a><a>o</a><a>m</a><a>e</a>";
+                        let chars = header.getElementsByTagName("a");
+                        for(let i = 0; i < chars.length; i++) {
+                            let styleHeader = document.createElement("style");
+                            chars[i].id = `header${i}`;
+                            styleHeader.innerHTML = `#header${i}:hover { color: ${colors[i]}; transition: 300ms; }`;
+                            chars[i].append(styleHeader);
+                        }
+                    }, 3500);
+            },
+        });
+    })();
+    let codeInfo = $(".code-info");
+    let texts = ["print('Hello, my name is Женя')",
+        "console.log('Im glad to see you here!')",
+        'System.out.println("I hope you like it here!")',
+        'cout << "Be sure to visit the links below!" << endl'];
+    let contacts = document.querySelector(".contacts");
+    setTimeout(() => {
+        let i = -1;
+        (function anim() {
+            i++;
+            let text = document.createElement("a");
+            text.setAttribute("class", "code-info-text");
+            codeInfo.append(text);
+            bubbleText({
+                element: text,
+                newText: texts[i],
+                speed: 1500,
+                callback: () => {
+                    if(i < texts.length - 1) {
+                        if(i === 0)
+                            text.innerHTML = "print('Hello, my name is <a href='https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9' class='link' id='name-link'>Женя</a>')";
+                        else if(i === 1)
+                            text.innerHTML = "console.<a href='https://developer.mozilla.org/ru/docs/Web/API/Console/log' class='link' id='js-link'>log</a>('Im glad to see you here!')";
+                        else if(i === 2)
+                            text.innerHTML = '<a href="https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/System.html" class="link" id="system-link">System</a>.out.println("I hope you <a href="/create" class="link" id="like-link">like</a> it here!")';
+                        anim();
+                    }
+                    else {
+                        text.innerHTML = 'cout &lt;&lt; "Be sure to visit the <a href="/links" class="link" id="authors-link">links</a> below!" &lt;&lt; endl';
+                        contacts.animate({opacity: 1}, 600).onfinish = () => contacts.style.opacity = "1";
+                        setTimeout(() => {
+                            let params = new URLSearchParams(window.location.search);
+                            if(params.has("vk")) {
+                                window.location.replace("https://vk.com/id145441435");
+                            }
+                            else if(params.has("tg")) {
+                                window.location.replace("https://t.me/writenowme");
+                            }
+                            else if(params.has("in")) {
+                                window.location.replace("https://www.linkedin.com/in/zhenya-mateyuk-867125247");
+                            }
+                            else if(params.has("ds")) {
+                                window.location.replace("https://discordapp.com/users/953758837687586896");
+                            }
+                        }, 500);
+                    }
+                }
+            });
+        })();
+    }, 3000);
+});
