@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /loves
+Disallow: /links
+Allow: /tg
+Allow: /vk
+Allow: /in
+Allow: /ds
